@@ -12,6 +12,9 @@ This repository showcases my cybersecurity learning journey through hands-on tas
 - Network security tasks and lab simulations
 - Risk assessment and documentation
 - Phishing awareness and detection
+  
+1 - 📄 [NetSecure Connect – Cybersecurity Audit Report](NetSecure_Connect_Cybersecurity_Audit.pdf)  
+  Internal audit covering risk assessment, control checklist, and compliance (NIST, PCI DSS, GDPR).
 
 ---
 
