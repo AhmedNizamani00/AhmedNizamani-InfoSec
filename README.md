@@ -1,6 +1,6 @@
 # 🛡️ Ahmed Nizamani – InfoSec Portfolio
 
-I'm a Telecommunication Engineering student from Hyderabad, Sindh, with a strong interest in cybersecurity — especially network security.
+I'm a Telecommunication Engineering student, with a strong interest in cybersecurity — especially network security.
 
 This repository showcases my cybersecurity learning journey through hands-on tasks, internal audits, and beginner-level projects focused on compliance, risk assessment, and security frameworks.
 
@@ -23,4 +23,4 @@ To build practical skills and work professionally in the field of information se
 
 ## 📫 Connect
 
-[LinkedIn – Ahmed Nizamani](https://www.linkedin.com/in/ahmed-nizamani)
+LinkedIn – Ahmed Nizamani
